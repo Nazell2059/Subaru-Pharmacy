@@ -4,49 +4,25 @@
 
 layout: default
 ---
-## VRCUnity勉強会とは
+## すばる薬局
 
-VRCUnity勉強会は、VRChat向けのUnity技術をみんなで一緒に教え合う勉強会です。
-隔週で公開勉強会を開催しているほか、ディスコサーバーでは随時UnityやBlenderの使い方についての質問や情報交換、共同作業をしています。
+なにかコメント
 
-## 公開講座アーカイブ
+## アクセス
 
-### 最新の公開講座
+〒305-0033 茨城県つくば市東新井２６−１３
 
-VRCUnity勉強会 第七回公開講座「Udonに触らないSDK3ワールド講座」
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JJS4qoI5aT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d828144.6055919827!2d139.43039013227352!3d35.82595108912528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9b347ce21f738c88!2z44GZ44Gw44KL6Jas5bGA!5e0!3m2!1sja!2sjp!4v1626834658638!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
 そのほかの過去の講座は、[公開講座アーカイブ](/archive)をご覧ください。
 
 
-## Unity/Blenderお役立ち情報
+##　営業時間
 
-### 書籍
-<div style="float:left">
-<a href="https://nazell.booth.pm/items/2203578"><img src="/assets/images/nazell_unity_book.jpg" width="300px"></a>
-</div>
-<div style="float:left;margin-left:10px;">勉強会発足のきっかけになった<br>初心者向けのアバター改変の解説書！<br>
-Unityの導入からConstraint設定や<br>パーティクル設定まで網羅</div>
-<div style="clear:both;"></div>
-
-<div style="float:left">
-<a href="https://glintfraulein.booth.pm/items/2612867"><img src="/assets/images/glint_unity_book.jpg" width="300px"></a>
-</div>
-<div style="float:left;margin-left:10px;">初心者向けのアバター改変の解説書<br>待望続巻です！<br>
-前編で解説されなかったAvatars3.0の<br>ギミックを徹底解説！<br>簡単なギミックであれば一から実装可能に！</div>
-<div style="clear:both;"></div>
-
-## 参加方法
-
-興味がある方は、Discordサーバーにぜひ参加してください！
-
-[https://discord.gg/tv3aJQb](https://discord.gg/tv3aJQb)
-
+9：00～12：00　14：30～17：00
+日曜・祝日休
 
 ## 連絡先
 
-スタッフ：[Nazell](https://twitter.com/nazeru2)、[IKEA/Istria](https://twitter.com/IKEA_ToS)、[エスニヤ／ESNYA](https://twitter.com/y_esnya)、[GlinT](https://twitter.com/GlinTFraulein)、[meronmks / めろん](https://twitter.com/meronmks)、[Tony_Lewis](https://twitter.com/slord399)
-
- 連絡先：  Nazell（[@nazeru2](https://twitter.com/nazeru2)）もしくは VRCUnity勉強会（[@vrcunity](https://twitter.com/vrcunity)）
++81298285411

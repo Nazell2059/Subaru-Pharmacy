@@ -15,7 +15,7 @@ layout: default
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d828144.6055919827!2d139.43039013227352!3d35.82595108912528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9b347ce21f738c88!2z44GZ44Gw44KL6Jas5bGA!5e0!3m2!1sja!2sjp!4v1626834658638!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
-そのほかの過去の講座は、[公開講座アーカイブ](/archive)をご覧ください。
+
 
 
 ##　営業時間

@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: VRCUnity勉強会
+title: すばる薬局
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  VRCUnity勉強会は、VRChat向けのUnity技術をみんなで一緒に教え合う勉強会です。
+  コメント
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vrcunity
-github_username:  org/vrcunity
+github_username:  Nazell2059
 
 # Build settings
 markdown: kramdown
